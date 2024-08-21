@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiiaOS</string>
+    <string name="notification_channel_diia_default">Other notifications</string>
+
+    <string name="download_certificate_pdf">Download certificate (PDF)</string>
+    <string name="translate_to_ua">Translate to Ukrainian</string>
+    <string name="translate_to_eng">Translate to English</string>
+    <string name="rate_document">Rate document</string>
+
+    <string name="check_docs_no_internet_message">No internet connection. Check your connection and try again</string>
+    <string name="check_docs_no_registry_message">No access to the registry</string>
+    <string name="qr_code_not_registered">QR code is not registered in Diia</string>
+    <string name="unknown_qr_title">Unknown QR code</string>
+    <string name="check_doc_error_cert">"Certificate validation error"</string>
+    <string name="check_doc_expired_error_cert">The certificate is invalid. It has been revoked.</string>
+    <string name="check_doc_error_timeout">The QR code validation session has expired or is invalid</string>
+    <string name="check_doc_http_timeout">Failed to download the document for verification</string>
+    <string name="qr_check_subtitle_processing">Processing</string>
+    <string name="qr_check_subtitle_checking_docs">Checking documents</string>
+    <string name="try_again_doc">Try to download the document again</string>
+    <string name="documents_verification_title">Documents verification</string>
+    <string name="check_docs_t1">Documents verification</string>
+    <string name="check_docs_true">Document found</string>
+    <string name="check_docs_false">Document not found 😔</string>
+    <string name="check_docs_cert_false">Validation error</string>
+    <string name="check_doc_error_not_found">Document\nwith this\nQR code\ndoes not exist</string>
+
+    <string name="dl_no_photo_title">No photo in the registry 😔</string>
+    <string name="dl_no_photo_title_eng">There is no photo in the registry 😔</string>
+    <string name="dl_to_e_queue">Register in the electronic queue to add or update your photo.</string>
+    <string name="dl_to_e_queue_eng">Register in the electronic queue to add or update your photo.</string>
+    <string name="dl_to_e_queue_button">To the electronic queue</string>
+    <string name="dl_to_e_queue_button_eng">Electronic queue</string>
+    <string name="dl_outdated_title">Old document 😔</string>
+    <string name="dl_outdated_title_eng">You have an old document 😔</string>
+    <string name="dl_outdated_description">Register in the electronic queue to update it and add it to the app.</string>
+    <string name="dl_outdated_description_eng">Register in the electronic queue to update the document. It will appear in the application afterward.</string>
+    <string name="dl_to_e_office_title">Find address</string>
+    <string name="dl_to_e_office_title_eng">Open Driver‘s Account</string>
+    <string name="dl_need_verify_title">Your document requires\nverification 😔</string>
+    <string name="dl_need_verify_title_eng">Verification required for your document 😔</string>
+    <string name="dl_need_verify_queue">Please visit the nearest MIA service center.</string>
+    <string name="dl_need_verify_queue_eng">Access your Driver‘s Account and complete the online form.</string>
+    <string name="dl_expiration_title">Driver\'s license has expired 😔</string>
+    <string name="dl_expiration_description">You can get a new driver\'s license and delete this document.</string>
+
+    <string name="settings_support_label">Support Service</string>
+    <string name="settings_options_label">Settings</string>
+    <string name="settings_change_code_label">Change login code</string>
+    <string name="settings_doc_stack_label">Change document order</string>
+    <string name="settings_allow_touch_label">Biometric authorization</string>
+    <string name="settings_allow_notifications">Set up notifications</string>
+    <string name="settings_share_with_friends">Tell friends</string>
+    <string name="settings_dialog_title_support">Diia wants to open “%s”</string>
+</resources>

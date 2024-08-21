@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tax payer card statuses -->
+    <string name="taxpayer_card_status_ok">Verified by the State Tax Service on %1$s</string>
+    <string name="taxpayer_card_status_in_progress">Being verified by the State Tax Service</string>
+    <string name="taxpayer_card_status_failed">Failed verification by the State Tax Service</string>
+
+    <string name="url_driver_e_queue">https://eq.hsc.gov.ua/</string>
+    <string name="url_driver_e_find_address">https://hsc.gov.ua/kontakti/kontakti-gsts-pidrozdiliv/</string>
+    <string name="phone_number_veteran_registry">0–800–505–217</string>
+
+
+    <!--    Stack     -->
+    <string name="stack_order_title">Change Order</string>
+    <string name="stack_order_text">Drag the documents to\nchange their display order</string>
+    <string name="stack_all_same_doc_type">All documents of this type</string>
+    <string name="stack_change_doc_type_ordering">Change document order</string>
+
+    <string name="change_doc_ordering">Change document order</string>
+    <string name="remove_doc_action">Remove document</string>
+    <string name="full_info">Full information</string>
+    <string name="doc_id_copied"><b>Number copied</b></string>
+
+    <string name="download_certificate_pdf">Download certificate (PDF)</string>
+    <string name="download_document_pdf">Download document (PDF)</string>
+    <string name="award_context_menu_rate_doc">Rate document</string>
+    <string name="faq">FAQ</string>
+    <string name="translate_to_ua">Translate to Ukrainian</string>
+    <string name="translate_to_eng">Translate to English</string>
+
+    <string name="military_bonds_menu_go_to_mb">Go to bonds</string>
+    <string name="military_bonds_remove_from_docs">Remove from gallery</string>
+    <string name="residence_cert">Residence certificate</string>
+    <string name="idp_edit_person_address">Change actual residence address</string>
+    <string name="idp_action_button_cancel">Cancel IDP status</string>
+    <string name="idp_share_car">Share vehicle</string>
+    <string name="idp_share_car_owner_cancel">Cancel sharing</string>
+    <string name="idp_share_car_proper_cancel">Refuse to use the car</string>
+
+    <string name="rate_document">Rate document</string>
+    <string name="settings_share_with_friends">Tell friends</string>
+    <string name="update_document">Update document</string>
+</resources>

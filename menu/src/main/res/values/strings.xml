@@ -16,6 +16,6 @@
     <string name="app_session_header">Підключені пристрої</string>
     <string name="share_text_title">Завантажуй застосунок Дія</string>
     <string name="share_text_description">Електронне водійське посвідчення та свідоцтво про реєстрацію авто вже доступні у твоєму смартфоні.</string>
-    <string name="share_text_link">https://go.diia.app/</string>
+    <string name="share_text_link" translatable="false">https://go.diia.app/</string>
 
 </resources>

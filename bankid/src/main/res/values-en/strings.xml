@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bank_id_title">BankID</string>
+    <string name="bank_selection_title_text">Select your bank</string>
+    <string name="bank_selection_description_text">To authorize using BankID, select your bank and log in to the online banking system. Authorization does not provide any access to financial information.</string>
+    <string name="bank_selection_search_text">Search</string>
+    <string name="bank_selection_empty_icon">🖐</string>
+    <string name="bank_selection_empty_title">Unfortunately, an error has occurred.</string>
+    <string name="bank_selection_empty_description">The list of banks is unavailable. Please try again later.</string>
+
+    <string name="bank_selection_title_test_tag">title_bankid</string>
+    <string name="bank_selection_body_bank_test_tag">body_bankid</string>
+    <string name="bank_selection_bank_list_test_tag">bank_list_bankid</string>
+    <string name="bank_selection_search_bank_test_tag">search_bankid</string>
+    <string name="bank_selection_stub_message_bank_test_tag">stub_message_bankid</string>
+</resources>

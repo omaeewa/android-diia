@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_screen_title_text">Authorization</string>
+    <string name="login_screen_title_subtext">Diia Version: %s</string>
+
+    <string name="login_screen_description_text">Log in using BankID of the National Bank of Ukraine with your online banking or using the NFC chip in biometric documents.\n\nTo authorize, please review the content.\n{details}</string>
+    <string name="login_screen_description_param_type">details</string>
+    <string name="login_screen_description_param_text">Notification on Personal Data Processing</string>
+    <string name="login_screen_description_param_link">https://diia.gov.ua/app_policy</string>
+
+    <string name="login_screen_checkbox_text">I have reviewed the content of the Notification on Personal Data Processing.</string>
+    <string name="login_screen_bank_list_title">Authorize through:</string>
+    <string name="login_screen_bank_list_item2">NFC</string>
+    <string name="login_screen_bank_list_item3">Privat24</string>
+    <string name="login_screen_bank_list_item4">monobank</string>
+
+    <string name="login_screen_loading_test_tag">trident_loader_splash</string>
+    <string name="login_screen_title_test_tag">title_auth</string>
+    <string name="login_screen_text_test_tag">text_conditions_auth</string>
+    <string name="login_screen_checkbox_test_tag">checkbox_conditions_bordered_auth</string>
+    <string name="login_screen_checkbox_square_test_tag">checkbox_conditions_auth</string>
+    <string name="login_screen_bottom_group_test_tag">bottom_group_auth</string>
+    <string name="login_screen_list_items_test_tag">methods_list_auth</string>
+
+</resources>

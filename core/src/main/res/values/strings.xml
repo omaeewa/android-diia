@@ -119,5 +119,5 @@
     <string name="retry">Спробувати ще</string>
     <string name="phone_number_mask_input_hint">0123456789123456789</string>
     <string name="text_length_counter">Залишилося символів: %d</string>
-    <string name="home_loading" />
+    <string name="home_loading" translatable="false" >" "</string>
 </resources>

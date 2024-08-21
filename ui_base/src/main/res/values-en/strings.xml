@@ -1,56 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="expand_collapse">Розгорнути/згорнути</string>
-    <string name="arrow_back">Повернутись</string>
-    <string name="context_menu">Контекстне меню</string>
-    <string name="details">Деталі</string>
-    <string name="decrease_value">Зменшити значення</string>
-    <string name="increase_value">Збільшити значення</string>
-    <string name="select_date">Вкажіть дату</string>
-    <string name="select_time">Вкажіть час</string>
-    <string name="day_placeholder">дд</string>
-    <string name="month_placeholder">мм</string>
-    <string name="year_placeholder">рррр</string>
-    <string name="clean_search_field">Очистити поле пошуку</string>
+    <string name="expand_collapse">Expand/Collapse</string>
+    <string name="arrow_back">Go back</string>
+    <string name="context_menu">Context menu</string>
+    <string name="details">Details</string>
+    <string name="decrease_value">Decrease value</string>
+    <string name="increase_value">Increase value</string>
+    <string name="select_date">Select date</string>
+    <string name="select_time">Select time</string>
+    <string name="day_placeholder">dd</string>
+    <string name="month_placeholder">mm</string>
+    <string name="year_placeholder">yyyy</string>
+    <string name="clean_search_field">Clear search field</string>
     <string name="code_input_text_hint_1">A</string>
-    <string name="code_input_text_hint_2" translatable="false">1</string>
-    <string name="code_input_text_hint_3" translatable="false">2</string>
-    <string name="code_input_text_hint_4">Б</string>
-    <string name="notification_channel_messages">Повідомлення</string>
-    <string name="loading_ellipsized">Завантаження…</string>
-    <string name="close">Закрити</string>
-    <string name="qr_code">QR код</string>
-    <string name="copy_to_clipboard">Скопіювати</string>
-    <string name="not_handled_icon">Відсутній опис іконки</string>
+    <string name="code_input_text_hint_4">B</string>
+    <string name="notification_channel_messages">Messages</string>
+    <string name="loading_ellipsized">Loading…</string>
+    <string name="close">Close</string>
+    <string name="qr_code">QR code</string>
+    <string name="copy_to_clipboard">Copy</string>
+    <string name="not_handled_icon">No icon description available</string>
     <string name="empty_string" />
 
     <!--    NFC  -->
-    <string name="dialog_nfc_ready_to_read">Готовність до зчитування</string>
-    <string name="dialog_nfc_hold_the_card">Утримуйте картку з телефоном в одному положенні</string>
-    <string name="dialog_nfc_scan_in_progress">Зчитування</string>
-    <string name="nfc_scan_stop">Зупинити</string>
-    <string name="nfc_scan_success">Продовжити</string>
-    <string name="nfc_scanning_title_success_icon" translatable="false">👍</string>
-    <string name="nfc_scanning_title_success">Дякуємо</string>
-    <string name="nfc_instructions_scanning">Утримуйте картку з телефоном в одному положенні</string>
-    <string name="nfc_instructions_start">Прикладіть носій з документом (чип) до зворотного боку телефону</string>
-    <string name="nfc_instructions_success">Зчитування даних успішно завершено</string>
+    <string name="dialog_nfc_ready_to_read">Ready to read</string>
+    <string name="dialog_nfc_hold_the_card">Hold the card and phone together</string>
+    <string name="dialog_nfc_scan_in_progress">Scanning</string>
+    <string name="nfc_scan_stop">Stop</string>
+    <string name="nfc_scan_success">Continue</string>
+    <string name="nfc_scanning_title_success">Thank you</string>
+    <string name="nfc_instructions_scanning">Hold the card and phone together</string>
+    <string name="nfc_instructions_start">Place the document (chip) on the back of the phone</string>
+    <string name="nfc_instructions_success">Data reading successfully completed</string>
 
     <string name="mrz_instructions_icon_test_tag">icon_reading</string>
     <string name="mrz_scanner_body_test_tag">body_scan</string>
     <string name="mrz_scanner_tooltip_test_tag">tool_tip_scan</string>
     <string name="mrz_scanner_faceid_nav_panel_test_tag">navigation_panel_faceid</string>
-
-    <string name="btn_num_1_test_tag" translatable="false">btn_num_1</string>
-    <string name="btn_num_2_test_tag" translatable="false">btn_num_2</string>
-    <string name="btn_num_3_test_tag" translatable="false">btn_num_3</string>
-    <string name="btn_num_4_test_tag" translatable="false">btn_num_4</string>
-    <string name="btn_num_5_test_tag" translatable="false">btn_num_5</string>
-    <string name="btn_num_6_test_tag" translatable="false">btn_num_6</string>
-    <string name="btn_num_7_test_tag" translatable="false">btn_num_7</string>
-    <string name="btn_num_8_test_tag" translatable="false">btn_num_8</string>
-    <string name="btn_num_9_test_tag" translatable="false">btn_num_9</string>
-    <string name="btn_num_0_test_tag" translatable="false">btn_num_0</string>
 
     <string name="create_pin_screen_title_test_tag">title_pincreate</string>
     <string name="create_pin_screen_ellips_test_tag">ellips_stepper_pincreate</string>
@@ -65,15 +51,13 @@
     <string name="enter_pin_screen_btn_num_test_tag">btn_num_pinenter</string>
 
     <!--    Login  -->
-    <string name="login_screen_bank_list_title">Авторизуватись через:</string>
+    <string name="login_screen_bank_list_title">Authorize via:</string>
 
+    <string name="error_message_notifications_empty">You have no new messages.</string>
 
-    <string name="error_message_notifications_icon" translatable="false">👌</string>
-    <string name="error_message_notifications_empty">У вас немає нових повідомлень.</string>
+    <string name="doc_stack_order_group_count">%d documents</string>
 
-    <string name="doc_stack_order_group_count">%d документи</string>
-
-    <string name="no_internet">Немає доступу до інтернету. Дані не оновлюються • Немає доступу до інтернету. Дані не оновлюються • Немає доступу до інтернету. Дані не оновлюються •</string>
+    <string name="no_internet">No internet access. Data not updated • No internet access. Data not updated • No internet access. Data not updated •</string>
 
     <!--  Menu  -->
     <string name="menu_item_profile_test_tag">profile</string>
@@ -113,10 +97,6 @@
     <string name="home_navigation_panel_subcategories_test_tag">navigation_panel_subcategories</string>
     <string name="home_stub_message_services_test_tag">stub_message_services</string>
     <string name="home_title_services_test_tag">title_services</string>
-
-
-
-
 
     <!--  Docs  -->
     <string name="stack_order_title_test_tag">title_documents</string>
